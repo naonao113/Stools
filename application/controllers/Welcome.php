@@ -26,6 +26,6 @@ class Welcome extends CI_Controller {
 		echo "welcome111=";
 	}
 	public function test2(){
-		echo "test333";
+		echo "testedddddddd333";
 	}
 }
